@@ -1,0 +1,4 @@
+.idea
+*.so
+*.o
+app
