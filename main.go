@@ -2,8 +2,8 @@ package main
 
 /*
 #cgo CFLAGS: -I${SRCDIR}/ctestlib
-#cgo LDFLAGS: -Wl,-rpath,${SRCDIR}/ctestlib
-#cgo LDFLAGS: -L${SRCDIR}/ctestlib
+#cgo LDFLAGS: -Wl,-rpath,${SRCDIR}/build
+#cgo LDFLAGS: -L${SRCDIR}/build
 #cgo LDFLAGS: -ltest
 
 #include <test.h>
