@@ -3,8 +3,7 @@
 all: c go run
 
 env:
-	docker build --tag cgo .
-	docker run --rm -ti -v $(shell pwd):/src cgo
+	docker run --rm -ti -v $(shell pwd):/src -w /src golang:1.24.2
 
 c:
 	mkdir -p build
