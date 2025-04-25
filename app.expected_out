@@ -1,0 +1,26 @@
+
+Numbers
+3
+
+Get string
+string sent from C
+[115 116 114 105 110 103 32 115 101 110 116 32 102 114 111 109 32 67]
+
+Send string
+
+Send byte array
+bytes: 
+Get and pass struct
+{0 2}
+-2
+
+Pass void pointer
+
+Access enum
+true 0 1
+
+Pass callback
+odd number:  0
+odd number:  2
+odd number:  4
+{johndoe 5}

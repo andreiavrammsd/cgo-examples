@@ -1,4 +1,1 @@
-.idea
-*.so
-*.o
-app
+build/
